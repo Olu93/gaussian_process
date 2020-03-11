@@ -1,1 +1,1 @@
-# gaussian_process
+# Various implementations of a Gaussian Process
